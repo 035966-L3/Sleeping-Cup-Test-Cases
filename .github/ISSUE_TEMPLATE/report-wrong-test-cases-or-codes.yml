@@ -1,15 +1,15 @@
-name: Report wrong testcases or codes
-description: Use this in case of finding wrong testcases or codes.
+name: Report wrong test cases or codes
+description: Use this in case of finding wrong test cases or codes.
 body:
   - type: input
     attributes:
       label: Problem ID
-      placeholder: 'e.g. 4D'
+      placeholder: 'e.g. Main/4D'
     validations:
       required: true
   - type: input
     attributes:
-      label: Wrong Testcase(s)/Code(s)
+      label: Wrong Test Case(s)/Code(s)
       placeholder: 'e.g. 14.in/gen_14.cpp'
     validations:
       required: true
