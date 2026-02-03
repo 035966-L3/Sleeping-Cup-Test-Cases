@@ -4,7 +4,7 @@ body:
   - type: input
     attributes:
       label: Problem ID
-      placeholder: 'e.g. 1C'
+      placeholder: 'e.g. Main/1C'
     validations:
       required: true
   - type: input
