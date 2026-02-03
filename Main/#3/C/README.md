@@ -6,4 +6,4 @@ Please directly use `commands.bat` (Windows) / `commands.sh` (Linux) for generat
 
 Remember to run the command `chmod +x commands.sh` first if you are generating on Linux.
 
-(In fact, we firstly generated twice to get 40 testcases and then discarded 20 of them by hand.)
+(In fact, we firstly generated twice to get 40 test cases and then discarded 20 of them by hand.)
