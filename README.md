@@ -1,4 +1,4 @@
-# Sleeping Cup's Testcases
+# Sleeping Cup's Test Cases
 
 ## What is Sleeping Cup?
 
@@ -24,4 +24,4 @@ The names of generators will include the substring `gen`. You just need to compi
 
 You can also contact us for any questions on the use of generators.
 
-Note that some testcases (especially the first ones as samples) are handmade.
+Note that some test cases (especially the first ones as samples) are handmade.
