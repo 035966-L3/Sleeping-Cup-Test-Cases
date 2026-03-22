@@ -2,7 +2,7 @@
 
 ## What is Sleeping Cup?
 
-This one: <http://8.136.99.126/>
+This one: <https://scg3.piaoztsdy.cn/>
 
 ## Are there any other useful links?
 
