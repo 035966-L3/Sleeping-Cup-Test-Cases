@@ -1,1 +1,2 @@
-This is an output-only problem.
+This is an objective problem.
+
