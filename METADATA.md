@@ -1,5 +1,3 @@
-
-
 | Category | Round | Order | Type | Difficulty | Name |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | Main | #1 | A | Traditional | 2 | Sleeping pairs |
