@@ -18,7 +18,7 @@
 4. 若有函数 $f: \mathbb R \to \mathbb R$，满足 $g(x)=(x-1)f(x)$ 为奇函数，$h(x)=f(x)+x$ 为偶函数，则 $\displaystyle\max_{x \in \mathbb R}f(x)$ 等于多少？
 5. 若 $k \in \mathbb N_+$ 满足 $\left(\dfrac{\sin 20^\circ}{\cos 25^\circ}+\dfrac{\sin 25^\circ}{\cos 20^\circ} \text i\right)^k \in \mathbb R$，则 $k_{\min}$ 等于多少？
 6. 设 $\Gamma$ 为某个四棱柱，从 $\Gamma$ 中均匀随机选取两个不同的棱 $l_1,l_2$，则 $P(l_1\ /\!/\ l_2)$ 的所有可能取值分别有哪些？
-7. 若某个欧式平面上的三个单位向量 $\bm a,\bm b,\bm c$ 满足 $\bm a \cdot \bm b = [\bm a \cdot \bm c] + [\bm b \cdot \bm c] $，则 $|\bm a+\bm b+\bm c|$ 的取值范围是什么？
+7. 若某个欧氏平面上的三个单位向量 $\bm a,\bm b,\bm c$ 满足 $\bm a \cdot \bm b = [\bm a \cdot \bm c] + [\bm b \cdot \bm c] $，则 $|\bm a+\bm b+\bm c|$ 的取值范围是什么？
 8. 若需要取出 $1 \sim 9$ 这 $9$ 种数码各一个，将它们组成三个和为 $2025$ 的有序三位数，则方案有多少种？
 9. 设平面上有三个互不重合的点 $P,M,Q \in \{(x,y)\ |\ y^2=2x+2|x|\}$，$M$ 为 $QP$ 中点，$\overrightarrow{OP} \cdot \overrightarrow{OQ}=-2$，$O(0,0)$，则 $M$ 的坐标是什么？
 10. 若正四面体 $ABCD$ 的棱长为 $2$，$P,Q,M$ 分别在线段 $AB,AC,AD$ 上，$AP+AQ=2AM=2$，则 $M$ 到 $QP$ 的距离最小是多少？
