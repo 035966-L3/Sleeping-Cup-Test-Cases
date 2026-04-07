@@ -1,0 +1,10 @@
+9
+int x 10
+char c a
+add x value 5
+minus c value 65
+output variable x
+output variable c
+int l 1000000000
+add l value 2000000000
+output variable l

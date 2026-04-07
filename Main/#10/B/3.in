@@ -1,0 +1,8 @@
+7
+char x a
+for 100 add x value 1
+output variable x
+string t 123
+for 3 add t value 666
+for 3 add t variable t
+output variable t

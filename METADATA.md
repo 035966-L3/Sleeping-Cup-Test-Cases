@@ -37,6 +37,10 @@
 | Main | #8 | E | Traditional | 6 | Extraordinary TSP Problem |
 | Main | #8 | F | Traditional | 8 | Trivial Array Queries |
 | Main | #8 | G | Traditional | 8 | Returning Brooms |
+| Main | #10 | A | Traditional | 4 | Problem Entries |
+| Main | #10 | B | Traditional | 2 | Trivial Script Interpretation |
+| Main | #10 | C | Traditional | 1 | Signal Traversal |
+| Main | #10 | D | Traditional | 1 | Population |
 | Extra | #1 | - | Traditional | 1 | Polygon Areas |
 | Extra | #2 | - | Interactive | 9 | Sleeping Bear's Honey 3+ |
 | Extra | #3 | - | Output-only | 9 | Exclamation Covering |

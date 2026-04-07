@@ -1,0 +1,7 @@
+6
+string a hello
+output variable a
+add a value world
+output variable a
+set a value hi
+output variable a
