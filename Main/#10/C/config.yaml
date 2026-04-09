@@ -57,3 +57,23 @@ subtasks:
         output: 24.out
       - input: 25.in
         output: 25.out
+      - input: 26.in
+        output: 26.out
+      - input: 27.in
+        output: 27.out
+      - input: 28.in
+        output: 28.out
+      - input: 29.in
+        output: 29.out
+      - input: 30.in
+        output: 30.out
+      - input: 31.in
+        output: 31.out
+      - input: 32.in
+        output: 32.out
+      - input: 33.in
+        output: 33.out
+      - input: 34.in
+        output: 34.out
+      - input: 35.in
+        output: 35.out
