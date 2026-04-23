@@ -1,6 +1,6 @@
 ## 注意
 
-本题版权归 AtCoder Inc. 所有。**
+**本题版权归 AtCoder Inc. 所有。**
 
 **题目来源：<https://atcoder.jp/contests/practice2/tasks/practice2_l>**
 
