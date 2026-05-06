@@ -1,0 +1,11 @@
+10
+min(min(max(a[1],a[2]),a[3]),a[4])
+min(min(a[1],max(a[2],a[3])),a[4])
+min(min(a[1],a[2]),max(a[3],a[4]))
+min(a[1],min(max(a[2],a[3]),a[4]))
+min(a[1],min(a[2],max(a[3],a[4])))
+min(min(min(a[1],a[2]),a[3]),a[4])
+min(min(a[1],min(a[2],a[3])),a[4])
+min(min(a[1],a[2]),min(a[3],a[4]))
+min(a[1],min(min(a[2],a[3]),a[4]))
+min(a[1],min(a[2],min(a[3],a[4])))

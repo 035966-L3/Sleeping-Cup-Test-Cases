@@ -37,6 +37,10 @@
 | Main | #8 | E | Traditional | 6 | Extraordinary TSP Problem |
 | Main | #8 | F | Traditional | 8 | Trivial Array Queries |
 | Main | #8 | G | Traditional | 8 | Returning Brooms |
+| Main | #9 | A | Traditional | 4 | Minimum-Maximum Compounds |
+| Main | #9 | B | Traditional | 6 | Savings Challenge |
+| Main | #9 | C | Traditional | 8 | 2048: Python vs. OOM |
+| Main | #9 | D | Subjective | 6 | The Zero Point |
 | Main | #10 | A | Traditional | 4 | Problem Entries |
 | Main | #10 | B | Traditional | 2 | Trivial Script Interpretation |
 | Main | #10 | C | Traditional | 1 | Signal Traversal |

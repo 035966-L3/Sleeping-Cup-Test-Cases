@@ -1,0 +1,9 @@
+8
+min(a[1],a[2])
+min(min(a[1],a[2]),a[3])
+min(a[1],min(a[2],a[3]))
+min(min(min(a[1],a[2]),a[3]),a[4])
+min(min(a[1],min(a[2],a[3])),a[4])
+min(min(a[1],a[2]),min(a[3],a[4]))
+min(a[1],min(min(a[2],a[3]),a[4]))
+min(a[1],min(a[2],min(a[3],a[4])))

@@ -1,0 +1,35 @@
+type: default
+memory: 512MB
+filename: savings
+subtasks:
+  - score: 25
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1.in
+        output: 1.out
+  - score: 25
+    if: []
+    id: 2
+    type: min
+    cases:
+      - input: 2.in
+        output: 2.out
+  - score: 25
+    if: []
+    id: 3
+    type: min
+    cases:
+      - input: 3.in
+        output: 3.out
+  - score: 25
+    if:
+      - 1
+      - 2
+      - 3
+    id: 4
+    type: min
+    cases:
+      - input: 4.in
+        output: 4.out
