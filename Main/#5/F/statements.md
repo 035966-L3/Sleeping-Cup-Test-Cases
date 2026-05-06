@@ -1,5 +1,9 @@
 ## 注意
 
+**本题版权归 AtCoder Inc. 所有。**
+
+**题目来源：<https://atcoder.jp/contests/practice2/tasks/practice2_l>**
+
 **本题需要使用文件读写（`inversion.in` / `inversion.out`）。**
 
 **由于本题不涉及负数，你可以全程使用 `unsigned int` 计算以优化代码常数。**
