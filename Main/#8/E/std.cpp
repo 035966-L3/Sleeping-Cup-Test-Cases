@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 const int N = 1e8 + 12, M = 6e6 + 12;
-int pp = 0, ps[M];
+int ps[M];
 bitset <N> pt;
 int main()
 {
