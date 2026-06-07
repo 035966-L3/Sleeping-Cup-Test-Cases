@@ -1,8 +1,8 @@
 ## 注意
 
-**本题版权归 [aiyou](https://github.com/aiyou945) 所有。**
+**本题由 [aiyou](https://github.com/aiyou945) 搬运，版权归 AtCoder Inc. 所有。**
 
-**题目来源：<https://oj.piaoztsdy.cn/p/P1008>**
+**题目来源：<https://atcoder.jp/contests/abc300/tasks/abc300_d>**
 
 **本题需要使用文件读写（`triples.in` / `triples.out`）。**
 
