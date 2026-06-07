@@ -52,3 +52,4 @@
 | Extra | #5 | - | Objective | 10 | 2025 CMOP (A) Day 1 |
 | Extra | #6 | - | Interactive | 6 | Unique Laser Gun |
 | Extra | #7 | - | Traditional | 8 | More 2048: Python vs. More OOM |
+| Extra | #8 | - | Traditional | 5 | Prime Triples |
