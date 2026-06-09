@@ -77,8 +77,8 @@ $q$ 行，每行一个非负整数，分别表示第 $2,4,6,\ldots,2q$ 个指令
 
 请在编译 `gen_samples.cpp` 为可执行文件 `gen_samples` 后使用以下命令生成样例：
 
-- `gen_samples inversion.in inversion.ans`（Windows）。
-- `./gen_samples inversion.in inversion.ans`（Linux）。
+- `gen_samples inversion.in inversion.ans`（Windows）
+- `./gen_samples inversion.in inversion.ans`（Linux）
 
 ## 数据范围
 
