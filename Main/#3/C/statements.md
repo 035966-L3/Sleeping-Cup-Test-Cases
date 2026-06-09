@@ -39,5 +39,5 @@ $10^5$ 行，每行两个 $3$ 位小数 $x,y$ 和一个整数 $z$**（保证 $\b
 
 请在编译 `gen.cpp` 为可执行文件 `gen` 后使用以下命令生成样例：
 
-- `gen circle.in circle.ans`（Windows）。
-- `./gen circle.in circle.ans`（Linux）。
+- `gen circle.in circle.ans`（Windows）
+- `./gen circle.in circle.ans`（Linux）
