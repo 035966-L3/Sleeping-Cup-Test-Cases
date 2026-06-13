@@ -1,5 +1,9 @@
 ## 注意
 
+**本题版权归 ROIR 所有。**
+
+**题目来源：<https://neerc.ifmo.ru/school/archive/2019-2020/ru-olymp-regional-2020-day1.pdf>（Task 1）**
+
 **本题需要使用文件读写（`sd.in` / `sd.out`）。**
 
 ## 题目背景
