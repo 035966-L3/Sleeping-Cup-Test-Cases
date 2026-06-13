@@ -18,22 +18,22 @@ using namespace std;
 unsigned int n, x;
 inline unsigned int get()
 {
-    x ^= x << 7;
-    x ^= x >> 23;
-    x ^= x << 12;
+	x ^= x << 7;
+	x ^= x >> 23;
+	x ^= x << 12;
 	return x;
 }
 int main()
 {
-    freopen("median.in", "r", stdin);
-    freopen("median.out", "w", stdout);
-    cin >> n >> x;
-    unsigned int answer = 0;
-    // Call the function 'get()' to get the integers.
-    // You should call the function 'get()' exactly N times.
-    // An integer will be given after each call.
-    cout << answer << endl;
-    return 0;
+	freopen("median.in", "r", stdin);
+	freopen("median.out", "w", stdout);
+	cin >> n >> x;
+	unsigned int answer = 0;
+	// Call the function 'get()' to get the integers.
+	// You should call the function 'get()' exactly N times.
+	// An integer will be given after each call.
+	cout << answer << endl;
+	return 0;
 }
 ```
 
