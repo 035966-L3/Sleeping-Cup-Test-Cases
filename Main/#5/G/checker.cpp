@@ -96,15 +96,15 @@ signed main(signed argc, char** argv)
 		}
 		if (n1 == E && n2 != E)
 		{
-			if (!straight(l1, n2)) quitf(_wa, "Wrong construction! 1");
-			if (sec[1] - fir[1] == l2) quitf(_wa, "Wrong construction! 2");
-			if (normal(fir[1], sec[1], sec[2]) == n2) quitf(_wa, "Wrong construction! 3");
+			if (!straight(l1, n2)) quitf(_wa, "Wrong construction!");
+			if (sec[1] - fir[1] == l2) quitf(_wa, "Wrong construction!");
+			if (normal(fir[1], sec[1], sec[2]) == n2) quitf(_wa, "Wrong construction!");
 		}
 		if (n1 != E && n2 == E)
 		{
-			if (!straight(l2, n1)) quitf(_wa, "Wrong construction! 4");
-			if (sec[1] - fir[1] == l1) quitf(_wa, "Wrong construction! 5");
-			if (normal(sec[1], fir[1], fir[2]) == n1) quitf(_wa, "Wrong construction! 6");
+			if (!straight(l2, n1)) quitf(_wa, "Wrong construction!");
+			if (sec[1] - fir[1] == l1) quitf(_wa, "Wrong construction!");
+			if (normal(sec[1], fir[1], fir[2]) == n1) quitf(_wa, "Wrong construction!");
 		}
 		if (n1 == E && n2 == E)
 		{
