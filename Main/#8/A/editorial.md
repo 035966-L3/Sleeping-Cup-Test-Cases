@@ -1,17 +1,5 @@
-由于 $\left| \dfrac{1 - \sqrt{5}}{2} \right| < 1$，当 $n \to +\infty$ 时，$\left( \dfrac{1 - \sqrt{5}}{2} \right)^n \to 0$，此时 $\dfrac{\left( \dfrac{1 + \sqrt{5}}{2} \right)^n - \left( \dfrac{1 - \sqrt{5}}{2} \right)^n}{\sqrt{5}} \to \dfrac{\left( \dfrac{1 + \sqrt{5}}{2} \right)^n}{\sqrt{5}}$，于是方程可以近似写成（显然 $R \ne \dfrac{\sqrt{5} - 1}{2}$）:
+代入 $x = \dfrac{1 - \sqrt{5}}{2}$，对多项式从第一项开始两两分组，显然每组都是正数。
 
-$$\begin{cases}\displaystyle\sum _{i = 1} ^{2n} \dfrac{\left( \dfrac{1 + \sqrt{5}}{2} \right)^i}{\sqrt{5}} R^{i - 1} = 0 \\ R \ne \dfrac{\sqrt{5} - 1}{2}\end{cases}$$
+任取 $-1 < t < \dfrac{1 - \sqrt{5}}{2}$，记 $p_n(x) = (1 - x - x^2) g_n(x) = 1 - \dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^{2n+1}-\left(\dfrac{1-\sqrt{5}}{2}\right)^{2n+1}}{\sqrt{5}} x^{2n} - \dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^{2n}-\left(\dfrac{1-\sqrt{5}}{2}\right)^{2n}}{\sqrt{5}} x^{2n+1} = 1 - x^{2n} \left( \dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^{2n+1}-\left(\dfrac{1-\sqrt{5}}{2}\right)^{2n+1}}{\sqrt{5}} + \dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^{2n}-\left(\dfrac{1-\sqrt{5}}{2}\right)^{2n}}{\sqrt{5}} x \right)$，在 $x = t$ 的取值下括号内放缩到 $x = -1$ 有 $p_n(t) < 1 - \dfrac{\left(\dfrac{1+\sqrt{5}}{2}\right)^{2n-1}-\left(\dfrac{1-\sqrt{5}}{2}\right)^{2n-1}}{\sqrt{5}} t^{2n} = 1 - \dfrac{\left(\dfrac{1+\sqrt{5}}{2}t\right)^{2n-1}-\left(\dfrac{1-\sqrt{5}}{2}t\right)^{2n-1}}{\sqrt{5}} t$，$n \to +\infty$ 时由 $\dfrac{1+\sqrt{5}}{2}t < -1$ 和 $0 < \dfrac{1-\sqrt{5}}{2}t < 1$ 可知整个式子趋于 $-\infty$。
 
-$$\begin{cases}\displaystyle\sum _{i = 0} ^{2n - 1} \left( \dfrac{1 + \sqrt{5}}{2} \right)^i R^i = 0 \\ R \ne \dfrac{\sqrt{5} - 1}{2}\end{cases}$$
-
-$$\begin{cases}\dfrac{1 - \left( \dfrac{1 + \sqrt{5}}{2} R \right)^{2n}}{1 - \left( \dfrac{1 + \sqrt{5}}{2} \right) R} = 0 \\ R \ne \dfrac{\sqrt{5} - 1}{2}\end{cases}$$
-
-$$\begin{cases}\left( \dfrac{1 + \sqrt{5}}{2} R \right)^{2n} = 1 \\ R \ne \dfrac{\sqrt{5} - 1}{2}\end{cases}$$
-
-$$\dfrac{1 + \sqrt{5}}{2} R = -1$$
-
-$$R = \dfrac{1 - \sqrt{5}}{2}$$
-
-```plain
--0.6180339887
-```
+因此 $n \to +\infty$ 时有 $t \le R \le \dfrac{1 - \sqrt{5}}{2}$，故 $R = \dfrac{1 - \sqrt{5}}{2}$。
