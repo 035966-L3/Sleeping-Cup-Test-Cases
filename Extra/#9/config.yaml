@@ -1,0 +1,12 @@
+type: interactive
+memory: 512MB
+interactor:
+  file: grader.cpp
+  lang: auto
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: /dev/null

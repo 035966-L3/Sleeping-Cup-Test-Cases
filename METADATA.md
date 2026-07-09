@@ -53,3 +53,4 @@
 | Extra | #6 | - | Interactive | 6 | Unique Laser Gun |
 | Extra | #7 | - | Traditional | 8 | More 2048: Python vs. More OOM |
 | Extra | #8 | - | Traditional | 3 | Prime Triples |
+| Extra | #9 | - | Interactive | 6 | Ternary Search |
