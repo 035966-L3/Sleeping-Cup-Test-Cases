@@ -2,7 +2,7 @@
 
 This is the hard version of problem D (in Main/#4), which is not used in the contest.
 
-### General instruction
+### General instructions
 
 The generators `gen_more.cpp` and `gen_extra.cpp` generate rather slowly, so you should be patient.
 
@@ -29,8 +29,9 @@ These are dedicated tests for this problem (the hard version).
 
 However, you may find many parts of the generator code never executed, since they are adapted from the original generators.
 
-### Generator dependency
+### Generator dependencies
 
 The generator `gen_20.cpp` may read the previously generated tests `12.in`, `13.in` and `14.in` as databases.
 
 As a result, please make sure those three files exist in the working directory of `gen_20.cpp`.
+

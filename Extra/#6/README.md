@@ -6,7 +6,7 @@ This is an interactive problem.
 
 The interaction is used only to avoid huge I/O (over 5 GB in total).
 
-### General instruction
+### General instructions
 
 The testdata input consists of two integers. The first is the test case ID, and the second is a randomly picked RNG seed (32-bit unsigned).
 

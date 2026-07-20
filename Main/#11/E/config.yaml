@@ -1,0 +1,52 @@
+type: default
+memory: 512MB
+checker_type: testlib
+checker: checker.cpp
+user_extra_files:
+  - sorting.h
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1.in
+        output: /dev/null
+      - input: 2.in
+        output: /dev/null
+      - input: 3.in
+        output: /dev/null
+      - input: 4.in
+        output: /dev/null
+      - input: 5.in
+        output: /dev/null
+      - input: 6.in
+        output: /dev/null
+      - input: 7.in
+        output: /dev/null
+      - input: 8.in
+        output: /dev/null
+      - input: 9.in
+        output: /dev/null
+      - input: 10.in
+        output: /dev/null
+      - input: 11.in
+        output: /dev/null
+      - input: 12.in
+        output: /dev/null
+      - input: 13.in
+        output: /dev/null
+      - input: 14.in
+        output: /dev/null
+      - input: 15.in
+        output: /dev/null
+      - input: 16.in
+        output: /dev/null
+      - input: 17.in
+        output: /dev/null
+      - input: 18.in
+        output: /dev/null
+      - input: 19.in
+        output: /dev/null
+      - input: 20.in
+        output: /dev/null

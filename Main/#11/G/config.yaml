@@ -1,0 +1,135 @@
+type: default
+memory: 512MB
+filename: seminar
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1.in
+        output: 1.out
+      - input: 2.in
+        output: 2.out
+      - input: 3.in
+        output: 3.out
+      - input: 4.in
+        output: 4.out
+      - input: 5.in
+        output: 5.out
+      - input: 6.in
+        output: 6.out
+      - input: 7.in
+        output: 7.out
+      - input: 8.in
+        output: 8.out
+      - input: 9.in
+        output: 9.out
+      - input: 10.in
+        output: 10.out
+      - input: 11.in
+        output: 11.out
+      - input: 12.in
+        output: 12.out
+      - input: 13.in
+        output: 13.out
+      - input: 14.in
+        output: 14.out
+      - input: 15.in
+        output: 15.out
+      - input: 16.in
+        output: 16.out
+      - input: 17.in
+        output: 17.out
+      - input: 18.in
+        output: 18.out
+      - input: 19.in
+        output: 19.out
+      - input: 20.in
+        output: 20.out
+      - input: 21.in
+        output: 21.out
+      - input: 22.in
+        output: 22.out
+      - input: 23.in
+        output: 23.out
+      - input: 24.in
+        output: 24.out
+      - input: 25.in
+        output: 25.out
+      - input: 26.in
+        output: 26.out
+      - input: 27.in
+        output: 27.out
+      - input: 28.in
+        output: 28.out
+      - input: 29.in
+        output: 29.out
+      - input: 30.in
+        output: 30.out
+      - input: 31.in
+        output: 31.out
+      - input: 32.in
+        output: 32.out
+      - input: 33.in
+        output: 33.out
+      - input: 34.in
+        output: 34.out
+      - input: 35.in
+        output: 35.out
+      - input: 36.in
+        output: 36.out
+      - input: 37.in
+        output: 37.out
+      - input: 38.in
+        output: 38.out
+      - input: 39.in
+        output: 39.out
+      - input: 40.in
+        output: 40.out
+      - input: 41.in
+        output: 41.out
+      - input: 42.in
+        output: 42.out
+      - input: 43.in
+        output: 43.out
+      - input: 44.in
+        output: 44.out
+      - input: 45.in
+        output: 45.out
+      - input: 46.in
+        output: 46.out
+      - input: 47.in
+        output: 47.out
+      - input: 48.in
+        output: 48.out
+      - input: 49.in
+        output: 49.out
+      - input: 50.in
+        output: 50.out
+      - input: 51.in
+        output: 51.out
+      - input: 52.in
+        output: 52.out
+      - input: 53.in
+        output: 53.out
+      - input: 54.in
+        output: 54.out
+      - input: 55.in
+        output: 55.out
+      - input: 56.in
+        output: 56.out
+      - input: 57.in
+        output: 57.out
+      - input: 58.in
+        output: 58.out
+      - input: 59.in
+        output: 59.out
+      - input: 60.in
+        output: 60.out
+      - input: 61.in
+        output: 61.out
+      - input: 62.in
+        output: 62.out
+      - input: 63.in
+        output: 63.out

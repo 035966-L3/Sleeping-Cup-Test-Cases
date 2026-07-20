@@ -45,8 +45,15 @@
 | Main | #10 | B | Traditional | 2 | Trivial Script Interpretation |
 | Main | #10 | C | Traditional | 1 | Signal Traversal |
 | Main | #10 | D | Traditional | 1 | Population |
+| Main | #11 | A | Traditional | 3 | Rating System |
+| Main | #11 | B | Traditional | 3 | Closed Chaining Hash Table |
+| Main | #11 | C | Traditional | 3 | Xor Knapsack |
+| Main | #11 | D | Traditional | 3 | The Lost Voucher |
+| Main | #11 | E | Interactive | 7 | Topology-Aware Step-By-Step Sorting |
+| Main | #11 | F | Traditional | 7 | Backward Repeats |
+| Main | #11 | G | Traditional | 7 | Interstellar JavaScript Seminar |
 | Extra | #1 | - | Traditional | 1 | Polygon Areas |
-| Extra | #2 | - | Interactive | 9 | Sleeping Bear's Honey 3+ |
+| Extra | #2 | - | Interactive | 9 | Sleeping Bear's Honey 4 |
 | Extra | #3 | - | Output-only | 9 | Exclamation Covering |
 | Extra | #4 | - | Traditional | 9 | Factorial Grandmaster |
 | Extra | #5 | - | Objective | 10 | 2025 CMOP (A) Day 1 |

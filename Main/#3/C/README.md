@@ -1,4 +1,4 @@
-### General instruction
+### General instructions
 
 The generator in this problem requires no input.
 
