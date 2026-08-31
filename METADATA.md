@@ -52,6 +52,7 @@
 | Main | #11 | E | Interactive | 7 | Topology-Aware Step-By-Step Sorting |
 | Main | #11 | F | Traditional | 7 | Backward Repeats |
 | Main | #11 | G | Traditional | 7 | Interstellar JavaScript Seminar |
+| Main | #12 | - | Traditional | 10 | CSP-J1/S1 2026 Mock Test |
 | Extra | #1 | - | Traditional | 1 | Polygon Areas |
 | Extra | #2 | - | Interactive | 9 | Sleeping Bear's Honey 4 |
 | Extra | #3 | - | Output-only | 9 | Exclamation Covering |
