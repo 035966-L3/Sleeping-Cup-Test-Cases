@@ -133,7 +133,7 @@ struct Hash
 ## 样例
 
 ```input1
-workspace
+workplace
 ```
 
 ```output1
